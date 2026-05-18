@@ -1,0 +1,101 @@
+ID_Paciente_Anonimo,Hora_CheckIn,Hora_Inicio_Consulta,Tipo_Agendamento,Canal_Marcacao,No_Show,Especialidade,Sinais_Vitais_PA,Tempo_Triagem_Min,Prescricao_Gerada,Solicitacao_Exames,Temp_Sala_Espera_C,Ocupacao_Assentos_Perc,Status_Wifi_Hospital,Nivel_Ruido_DB,ID_Medico,Anos_Experiencia_Medico,Custo_Material_Gasto_RS,Feedback_Apos_Consulta
+PAC_1000,13:27,13:44,Primeira Vez,App,Não,Cardiologia,140/70,5,Sim,1,22.2,37,Offline,54,MED_1,24,68.25,5
+PAC_1001,12:47,13:09,Exame,Presencial,Não,Clínica Geral,120/70,10,Sim,0,22.9,20,Instável,57,MED_6,8,73.48,3
+PAC_1002,13:09,13:35,Exame,Presencial,Sim,Cardiologia,120/90,6,Sim,5,22.1,68,Instável,47,MED_2,24,73.78,3
+PAC_1003,15:17,15:41,Exame,Telefone,Não,Cardiologia,110/90,15,Sim,4,24.6,66,Estável,80,MED_8,13,68.34,3
+PAC_1004,11:14,11:41,Urgência,App,Não,Pediatria,130/70,8,Não,1,24.3,27,Instável,89,MED_8,22,69.73,1
+PAC_1005,09:13,09:39,Urgência,Presencial,Não,Pediatria,130/70,7,Não,0,24.8,53,Estável,74,MED_3,8,82.35,5
+PAC_1006,13:21,13:41,Primeira Vez,Presencial,Sim,Clínica Geral,110/90,13,Não,5,22.7,96,Instável,64,MED_7,20,61.91,2
+PAC_1007,09:20,09:59,Exame,Presencial,Não,Cardiologia,120/70,10,Sim,4,25.8,84,Offline,56,MED_1,24,86.28,3
+PAC_1008,13:06,13:36,Primeira Vez,App,Não,Clínica Geral,110/90,12,Sim,4,24.8,59,Estável,63,MED_8,1,63.36,3
+PAC_1009,12:41,13:01,Exame,Presencial,Não,Ortopedia,140/90,15,Não,3,25.5,47,Instável,67,MED_2,17,86.17,5
+PAC_1010,10:06,10:30,Primeira Vez,App,Sim,Cardiologia,120/70,5,Não,0,23.6,49,Instável,75,MED_8,11,60.63,5
+PAC_1011,09:49,10:33,Urgência,App,Não,Pediatria,120/70,6,Não,2,23.1,93,Instável,76,MED_1,24,88.07,2
+PAC_1012,13:44,14:35,Urgência,App,Não,Cardiologia,120/80,7,Não,3,22.2,33,Estável,61,MED_8,2,72.08,3
+PAC_1013,14:53,15:38,Urgência,App,Não,Cardiologia,140/70,11,Sim,1,22.9,21,Instável,74,MED_5,2,79.56,3
+PAC_1014,15:54,16:54,Retorno,Presencial,Não,Clínica Geral,130/70,5,Sim,5,22.6,91,Estável,86,MED_10,10,72.69,3
+PAC_1015,12:04,12:46,Retorno,Presencial,Sim,Pediatria,140/70,14,Sim,4,24.0,43,Offline,45,MED_2,2,88.82,3
+PAC_1016,11:34,12:26,Exame,Telefone,Não,Ortopedia,140/80,6,Sim,3,24.1,60,Offline,82,MED_2,30,67.82,1
+PAC_1017,08:37,09:21,Urgência,Telefone,Sim,Pediatria,130/90,15,Sim,5,25.1,28,Instável,62,MED_2,17,67.96,3
+PAC_1018,16:00,16:18,Retorno,Telefone,Sim,Ortopedia,130/70,15,Não,4,23.4,90,Estável,87,MED_2,4,188.97,1
+PAC_1019,13:24,14:01,Urgência,Telefone,Sim,Ortopedia,140/90,5,Sim,0,25.7,36,Offline,89,MED_3,2,100.35,3
+PAC_1020,12:39,12:51,Primeira Vez,Telefone,Não,Ortopedia,130/70,15,Sim,5,21.5,36,Offline,67,MED_7,19,76.58,3
+PAC_1021,13:17,14:14,Exame,Telefone,Sim,Pediatria,140/90,8,Não,1,24.9,40,Estável,95,MED_7,30,87.9,1
+PAC_1022,15:26,15:38,Retorno,App,Não,Clínica Geral,140/80,9,Sim,2,22.8,64,Offline,69,MED_7,8,65.99,4
+PAC_1023,13:47,14:31,Urgência,Telefone,Sim,Ortopedia,130/90,10,Não,4,25.9,42,Estável,56,MED_7,1,111.53,5
+PAC_1024,15:40,16:26,Retorno,Presencial,Não,Pediatria,130/80,6,Não,4,22.6,20,Estável,67,MED_5,9,61.33,5
+PAC_1025,12:19,12:48,Urgência,App,Não,Clínica Geral,120/90,14,Não,3,23.7,90,Estável,58,MED_5,11,72.07,1
+PAC_1026,10:26,10:49,Retorno,Telefone,Não,Clínica Geral,140/90,7,Sim,2,23.6,61,Offline,81,MED_10,26,77.4,2
+PAC_1027,10:51,11:06,Urgência,App,Sim,Pediatria,110/80,11,Sim,5,24.5,45,Instável,91,MED_7,22,69.31,1
+PAC_1028,10:04,10:23,Urgência,App,Não,Cardiologia,110/90,8,Sim,3,21.7,33,Instável,89,MED_9,29,82.53,2
+PAC_1029,12:46,13:34,Retorno,Presencial,Não,Ortopedia,140/80,9,Sim,5,22.4,84,Offline,79,MED_8,25,86.74,4
+PAC_1030,13:20,13:45,Primeira Vez,Telefone,Não,Ortopedia,120/70,8,Não,5,21.8,50,Estável,58,MED_2,15,62.32,4
+PAC_1031,11:32,12:08,Primeira Vez,Telefone,Não,Ortopedia,140/80,5,Não,2,24.8,46,Instável,43,MED_9,18,73.98,4
+PAC_1032,14:22,15:19,Urgência,Telefone,Não,Pediatria,120/80,7,Sim,3,24.0,82,Offline,67,MED_1,16,66.58,3
+PAC_1033,08:42,09:33,Urgência,Telefone,Não,Clínica Geral,130/80,11,Não,3,22.3,26,Estável,51,MED_8,5,86.01,4
+PAC_1034,08:09,09:06,Primeira Vez,App,Não,Cardiologia,120/70,7,Não,5,21.6,25,Estável,44,MED_8,12,66.73,3
+PAC_1035,13:58,14:24,Primeira Vez,Telefone,Sim,Ortopedia,130/90,15,Não,3,25.7,34,Estável,87,MED_2,6,78.18,1
+PAC_1036,13:03,13:57,Exame,Presencial,Não,Pediatria,140/90,10,Sim,4,24.2,96,Estável,59,MED_7,4,80.92,1
+PAC_1037,15:01,15:42,Exame,App,Não,Cardiologia,140/80,11,Não,2,25.3,78,Estável,80,MED_5,14,88.82,5
+PAC_1038,15:31,16:09,Exame,App,Não,Pediatria,120/80,8,Não,2,22.7,68,Offline,79,MED_5,25,73.94,4
+PAC_1039,12:44,12:54,Urgência,App,Não,Pediatria,140/70,6,Não,1,23.0,82,Estável,66,MED_5,3,67.24,5
+PAC_1040,13:39,14:26,Urgência,Presencial,Não,Ortopedia,130/80,9,Sim,0,24.6,74,Instável,62,MED_2,16,76.6,5
+PAC_1041,14:20,15:04,Exame,Presencial,Não,Pediatria,110/70,9,Sim,2,21.9,55,Estável,70,MED_9,7,66.49,5
+PAC_1042,09:04,09:31,Primeira Vez,Telefone,Sim,Cardiologia,130/80,12,Não,2,21.9,36,Estável,84,MED_5,2,76.6,3
+PAC_1043,15:21,16:01,Retorno,Presencial,Não,Cardiologia,120/90,9,Sim,1,21.6,29,Instável,71,MED_10,27,61.96,5
+PAC_1044,13:05,14:05,Exame,Presencial,Não,Pediatria,110/90,6,Sim,5,22.1,76,Offline,68,MED_2,25,75.68,4
+PAC_1045,09:20,09:45,Exame,Presencial,Não,Pediatria,110/70,9,Não,5,25.3,72,Estável,40,MED_4,18,62.25,4
+PAC_1046,15:53,16:19,Retorno,App,Sim,Pediatria,130/90,14,Não,3,21.6,39,Offline,54,MED_5,14,63.44,4
+PAC_1047,13:58,14:33,Exame,App,Não,Ortopedia,130/70,6,Sim,5,25.2,30,Offline,68,MED_10,17,76.2,5
+PAC_1048,08:10,09:08,Exame,Presencial,Não,Ortopedia,120/90,11,Não,0,23.4,42,Instável,88,MED_6,19,61.21,2
+PAC_1049,10:44,11:36,Primeira Vez,Presencial,Não,Cardiologia,140/70,10,Não,2,21.6,83,Instável,66,MED_9,28,64.82,4
+PAC_1050,15:02,15:12,Primeira Vez,Telefone,Não,Clínica Geral,120/80,13,Sim,2,23.2,66,Offline,73,MED_8,14,61.63,5
+PAC_1051,09:02,09:13,Primeira Vez,Telefone,Sim,Pediatria,140/70,15,Sim,3,25.7,21,Instável,75,MED_9,23,64.75,5
+PAC_1052,14:01,14:28,Retorno,Presencial,Sim,Clínica Geral,120/70,9,Não,2,25.7,51,Offline,70,MED_5,27,74.47,4
+PAC_1053,15:00,15:10,Urgência,Telefone,Não,Ortopedia,140/80,10,Não,3,25.7,94,Estável,77,MED_4,24,68.96,3
+PAC_1054,12:52,13:26,Urgência,Telefone,Não,Pediatria,140/90,15,Sim,3,25.8,60,Estável,42,MED_9,28,83.27,5
+PAC_1055,13:02,13:33,Urgência,App,Não,Cardiologia,120/70,12,Não,2,24.1,87,Instável,46,MED_2,28,85.35,2
+PAC_1056,15:16,15:47,Retorno,App,Não,Clínica Geral,130/70,6,Não,0,24.8,82,Offline,88,MED_2,11,78.8,3
+PAC_1057,11:47,12:07,Retorno,Telefone,Não,Ortopedia,120/90,11,Sim,1,21.9,27,Offline,60,MED_7,29,60.87,4
+PAC_1058,13:17,14:10,Exame,Presencial,Sim,Pediatria,110/80,9,Sim,0,23.2,49,Instável,49,MED_10,16,87.38,4
+PAC_1059,10:33,11:23,Primeira Vez,Telefone,Não,Clínica Geral,120/80,14,Não,4,22.5,58,Offline,94,MED_5,23,67.5,1
+PAC_1060,08:11,09:03,Exame,Presencial,Não,Clínica Geral,120/90,10,Sim,5,22.0,26,Instável,95,MED_3,9,60.24,3
+PAC_1061,13:21,13:37,Exame,Presencial,Sim,Cardiologia,130/90,11,Sim,1,21.7,94,Offline,42,MED_6,10,83.66,2
+PAC_1062,12:31,13:13,Primeira Vez,Presencial,Não,Ortopedia,140/70,7,Sim,5,24.6,81,Instável,92,MED_9,27,64.94,2
+PAC_1063,11:07,11:22,Exame,Presencial,Não,Clínica Geral,140/90,10,Sim,5,22.2,78,Estável,47,MED_10,1,67.93,4
+PAC_1064,15:32,16:17,Exame,Telefone,Não,Ortopedia,140/70,7,Sim,0,22.5,28,Instável,81,MED_2,30,78.3,3
+PAC_1065,08:49,09:14,Retorno,Presencial,Não,Pediatria,140/90,6,Não,4,23.0,89,Instável,82,MED_1,13,73.61,2
+PAC_1066,13:53,14:26,Exame,Presencial,Não,Pediatria,110/80,9,Sim,0,25.7,66,Instável,55,MED_2,15,73.34,3
+PAC_1067,13:39,14:02,Retorno,App,Sim,Cardiologia,120/70,10,Sim,4,21.0,36,Estável,55,MED_3,2,83.6,5
+PAC_1068,12:36,13:02,Retorno,Telefone,Não,Pediatria,130/70,7,Não,0,21.6,36,Instável,41,MED_9,4,79.83,3
+PAC_1069,08:58,09:55,Retorno,App,Não,Cardiologia,110/90,15,Não,3,24.2,85,Estável,63,MED_1,16,73.45,5
+PAC_1070,12:05,12:40,Retorno,App,Não,Clínica Geral,110/70,9,Não,3,26.0,76,Offline,85,MED_5,22,63.24,1
+PAC_1071,11:52,12:34,Retorno,App,Não,Clínica Geral,140/80,12,Não,3,24.6,90,Instável,47,MED_7,4,83.79,3
+PAC_1072,10:40,11:32,Primeira Vez,App,Não,Ortopedia,140/70,10,Sim,4,21.3,80,Offline,83,MED_9,12,88.61,1
+PAC_1073,10:48,11:40,Exame,App,Não,Cardiologia,130/70,14,Sim,1,24.3,74,Estável,82,MED_2,14,70.61,3
+PAC_1074,10:59,11:44,Primeira Vez,Presencial,Não,Ortopedia,130/70,7,Não,5,24.8,48,Instável,76,MED_6,4,176.26,4
+PAC_1075,08:03,08:24,Primeira Vez,Presencial,Não,Pediatria,120/80,11,Não,2,21.8,38,Instável,44,MED_6,19,79.72,5
+PAC_1076,14:37,15:23,Urgência,Presencial,Sim,Cardiologia,140/80,14,Não,3,22.4,99,Offline,50,MED_2,29,61.58,1
+PAC_1077,10:56,11:33,Retorno,Presencial,Não,Cardiologia,140/90,5,Sim,1,22.5,82,Estável,77,MED_3,10,80.35,5
+PAC_1078,14:31,14:57,Retorno,App,Não,Ortopedia,130/70,11,Sim,3,21.1,75,Estável,71,MED_6,11,63.6,3
+PAC_1079,12:54,13:31,Retorno,App,Não,Clínica Geral,140/90,10,Sim,3,25.2,34,Estável,58,MED_7,23,79.2,4
+PAC_1080,13:01,13:36,Primeira Vez,Telefone,Não,Cardiologia,110/90,13,Sim,2,22.8,63,Offline,87,MED_3,13,86.12,1
+PAC_1081,10:00,10:16,Urgência,App,Não,Pediatria,140/90,14,Não,5,25.6,39,Offline,78,MED_10,9,65.92,5
+PAC_1082,10:45,11:35,Primeira Vez,Telefone,Não,Ortopedia,130/90,6,Não,3,23.3,76,Estável,70,MED_6,5,73.19,5
+PAC_1083,15:05,15:33,Urgência,Presencial,Não,Cardiologia,110/80,14,Sim,2,24.0,31,Offline,94,MED_3,21,85.93,3
+PAC_1084,08:31,09:09,Retorno,Presencial,Sim,Cardiologia,140/80,13,Sim,2,22.9,30,Instável,61,MED_7,26,86.97,5
+PAC_1085,11:29,12:28,Primeira Vez,Telefone,Sim,Ortopedia,140/80,9,Sim,2,21.4,100,Offline,90,MED_3,22,77.94,3
+PAC_1086,15:49,16:21,Exame,Presencial,Não,Ortopedia,140/90,10,Sim,5,24.5,36,Offline,65,MED_9,21,80.95,5
+PAC_1087,08:47,09:38,Urgência,App,Não,Clínica Geral,120/70,7,Sim,0,22.5,59,Estável,63,MED_9,17,70.85,3
+PAC_1088,14:34,15:18,Retorno,Presencial,Não,Cardiologia,120/90,14,Sim,5,23.2,99,Instável,89,MED_6,22,70.1,1
+PAC_1089,13:46,14:42,Urgência,Presencial,Sim,Pediatria,120/80,15,Não,3,24.8,77,Instável,88,MED_9,15,78.32,1
+PAC_1090,12:30,13:06,Exame,App,Não,Pediatria,110/90,13,Sim,2,21.4,37,Estável,78,MED_5,27,65.99,4
+PAC_1091,11:50,12:32,Urgência,App,Não,Pediatria,130/70,11,Sim,2,22.1,77,Instável,54,MED_2,27,73.12,4
+PAC_1092,15:09,16:04,Urgência,Presencial,Não,Ortopedia,140/90,5,Sim,0,22.3,56,Estável,42,MED_9,26,64.38,4
+PAC_1093,14:12,15:00,Urgência,App,Não,Clínica Geral,110/70,12,Sim,5,23.6,58,Estável,55,MED_3,4,83.29,3
+PAC_1094,10:29,11:06,Exame,Presencial,Não,Cardiologia,110/90,13,Sim,3,25.4,73,Estável,76,MED_7,20,70.58,3
+PAC_1095,11:11,11:37,Exame,Presencial,Não,Cardiologia,120/70,10,Não,5,21.9,50,Offline,62,MED_8,12,83.66,5
+PAC_1096,13:56,14:36,Retorno,Telefone,Sim,Pediatria,110/80,9,Não,4,23.4,78,Estável,85,MED_4,26,64.05,1
+PAC_1097,10:26,10:58,Urgência,Telefone,Não,Cardiologia,140/80,7,Não,5,23.5,35,Offline,57,MED_5,28,79.67,4
+PAC_1098,14:50,15:05,Primeira Vez,Telefone,Não,Clínica Geral,130/90,9,Não,3,24.0,43,Instável,92,MED_3,3,72.92,3
+PAC_1099,13:53,14:31,Primeira Vez,Telefone,Sim,Ortopedia,110/90,15,Não,2,23.6,65,Offline,95,MED_3,15,61.27,3
