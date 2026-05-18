@@ -1,0 +1,61 @@
+🛠️ Tecnologias e Ferramentas Utilizadas
+Python 3.x
+
+Pandas: Manipulação, limpeza, tratamento e engenharia de recursos em DataFrames.
+
+Numpy: Suporte matemático e manipulação vetorial de dados.
+
+Matplotlib / Seaborn: Geração de gráficos estatísticos e visualizações para tomada de decisão.
+
+🧠 Principais Conceitos Aplicados
+1. Higienização e Saneamento de Dados (Data Cleansing)
+Remoção de registros duplicados utilizando chaves de identificação únicas (drop_duplicates).
+
+Normalização de colunas numéricas textuais (conversão de strings monetárias "R$ 5.000,00" para formato numérico real).
+
+Imputação de dados ausentes por agrupamentos lógicos (preenchimento de lacunas com a média do setor correspondente).
+
+Correção de anomalias/outliers de idade através de tratamentos por mediana.
+
+Saneamento de múltiplos formatos de datas simultâneos (format='mixed') para conversão temporal estruturada.
+
+2. Engenharia de Recursos (KPIs de Negócio)
+Criação de indicadores de Tempo de Casa baseado em janelas temporais dinâmicas.
+
+Estruturação lógica e segmentação categórica (pd.cut) para analisar o impacto de treinamentos internos no desempenho dos colaboradores.
+
+Desenvolvimento de lógicas de classificação para predição de Risco Crítico de Turnover e Burnout.
+
+3. Análise Estatística e Governança Corporativa
+Validação de Equidade Salarial por gênero utilizando tabelas dinâmicas agrupadas (groupby e unstack).
+
+Construção de Matriz de Correlação para validação empírica de fatores motivacionais (ex: Correlação entre Salário vs. Satisfação).
+
+🔧 Como Executar o Projeto
+Clone o repositório:
+
+Bash
+git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+cd nome-do-repositorio
+Crie e ative seu ambiente virtual (opcional, mas recomendado):
+
+Bash
+python -m venv .venv
+# No Windows:
+.venv\\Scripts\\activate
+# No Linux/Mac:
+source .venv/bin/activate
+Instale as dependências necessárias:
+
+Bash
+pip install pandas numpy matplotlib seaborn
+Execute qualquer um dos scripts de análise:
+
+Bash
+python analise_rh_qa001.py
+👨‍🏫 Corpo Docente e Instituição
+Instituição: Faculdade UNA de Divinópolis (Ânima Educação)
+
+Professor: Ms. Giuliano Richards
+
+Disciplina: Análise de Dados com Python
