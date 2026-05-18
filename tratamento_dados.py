@@ -20,6 +20,17 @@ def carregar_e_limpar_base(caminho_csv='base_rh_bruta_aula.csv'):
     df['Salario'] = df['Salario'].astype(str).str.replace('R$', '', regex=False).str.replace('.', '', regex=False).str.replace(',', '.', regex=False)
     df['Salario'] = pd.to_numeric(df['Salario'], errors='coerce')
 
+    # TRATAMENTO DE NANs PARA O MACHINE LEARNING:
+    # Opção A: Preencher idades e satisfações vazias com a mediana delas (Mais recomendado para não perder dados)
+    mediana_idade = df['Idade'].median()
+    df['Idade'] = df['Idade'].fillna(mediana_idade)
+
+    mediana_satisfacao = df['Satisfacao_Trabalho'].median()
+    df['Satisfacao_Trabalho'] = df['Satisfacao_Trabalho'].fillna(mediana_satisfacao)
+
+    # Opção B (Alternativa radical): Apenas deletar qualquer linha que ainda tenha ficado com NaN
+    # df = df.dropna(subset=['Salario', 'Idade', 'Satisfacao_Trabalho'])
+
     # 4. Imputação de salários vazios com a média do departamento
     df['Salario'] = df.groupby('Departamento')['Salario'].transform(lambda x: x.fillna(x.mean()))
 
